@@ -17,7 +17,7 @@ Your Task Manager should have the following features:
 Earn extra credit by implementing one or more of the following features:
 - Categories or Tags tasks, such as (Work, Personal, Study, Health, Shopping, etc...)
 - Task Filtering based on priority (High, Medium, or Low)
-- Undo/Redo for adding and deleting functionality
+- Implement a confirmation prompt for both adding and deleting tasks to ensure users confirm their actions before proceeding.
 
 ## Evaluation Criteria
 Your project will be evaluated based on the following criteria:
